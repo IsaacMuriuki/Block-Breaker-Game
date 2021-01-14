@@ -972,25 +972,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 9019751694175478497, guid: f1bf7683eb83645f7a0ee761b12b7d82,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 9019751694446124912, guid: f1bf7683eb83645f7a0ee761b12b7d82,
         type: 3}
       propertyPath: m_Name
       value: Game Session
-      objectReference: {fileID: 0}
-    - target: {fileID: 9019751694446124914, guid: f1bf7683eb83645f7a0ee761b12b7d82,
-        type: 3}
-      propertyPath: gameSpeed
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 9019751694446124914, guid: f1bf7683eb83645f7a0ee761b12b7d82,
-        type: 3}
-      propertyPath: isAutoPlayEnabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9019751694446124915, guid: f1bf7683eb83645f7a0ee761b12b7d82,
         type: 3}
