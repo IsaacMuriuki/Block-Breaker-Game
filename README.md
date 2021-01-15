@@ -20,7 +20,7 @@ Features include
 - Ability to change the game speed
 - Prevention of 
   - Boring ball loops 
-  - The ball getting stuck at a position where it will not return to the bottom of the screen
+  - The ball getting stuck at a position where it will not return to the bottom of the screen (infinite ball loops)
 
 ### In-game screenshots
 
