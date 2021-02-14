@@ -4,8 +4,7 @@ A 2D Block Breaker Game written in C#, using Unity Engine.
 The objective of the game is to use the ball to destroy all the breakable blocks at the current level while preventing the ball from going below the paddle to progress to the next level
 The user manipulates the position of the paddle by moving the mouse over the game screen left and right. The paddle's position reflects the mouses position on the x axis
 At the beginning of a level the ball is stuck to the paddle, click anywhere on the screen to launch the ball off the paddle to start the game
-
-The game can be played [here](https://simmer.io/@iso/block-breaker-game) 
+ 
 
 Features include
 - Breakable and Unbreakable Blocks 
